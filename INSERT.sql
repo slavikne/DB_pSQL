@@ -16,6 +16,7 @@ insert into executant VALUES(7, 'Bazzi');
 insert into executant VALUES(8, 'Tinashe');
 insert into executant VALUES(9, 'Otilia');
 insert into executant VALUES(10, 'Bad Boys Blue');
+insert into executant VALUES(11, 'Rihanna');
 
 --Заполнение таблицы album
 insert into album VALUES(1, 'Kamikaze', 2018);
@@ -61,6 +62,7 @@ insert into genres_executant VALUES(1, 7);
 insert into genres_executant VALUES(1, 8);
 insert into genres_executant VALUES(5, 9);
 insert into genres_executant VALUES(4, 10);
+insert into genres_executant VALUES(1, 11);
 
 --Заполнение таблицы albums_executant
 insert into albums_executant VALUES(1, 1);
@@ -73,6 +75,7 @@ insert into albums_executant VALUES(7, 7);
 insert into albums_executant VALUES(8, 8);
 insert into albums_executant VALUES(9, 9);
 insert into albums_executant VALUES(10, 10);
+insert into albums_executant VALUES(11, 1);
 
 --Заполнение таблицы collection
 insert into collection VALUES(1, 'Best Rap - 2018', 2018);
