@@ -84,6 +84,7 @@ insert into collection VALUES(6, 'Best Rock - 2020', 2020);
 insert into collection VALUES(7, 'Best RnB - 2018', 2018);
 insert into collection VALUES(8, 'Best RnB - 2020', 2020);
 insert into collection VALUES(9, 'Dance music - 2019', 2019);
+insert into collection VALUES(10, 'Eminem - best', 2020);
 
 --Заполнение таблицы tracks_collection
 insert into tracks_collection VALUES(1, 1);
@@ -104,4 +105,5 @@ insert into tracks_collection VALUES(15, 7);
 insert into tracks_collection VALUES(16, 7);
 insert into tracks_collection VALUES(17, 9);
 insert into tracks_collection VALUES(18, 9);
+insert into tracks_collection VALUES(1, 10);
 
